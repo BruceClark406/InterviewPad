@@ -1,6 +1,3 @@
-from typing import List
-
-
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
         # base case

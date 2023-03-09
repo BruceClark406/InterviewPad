@@ -1,6 +1,3 @@
-from typing import List
-
-
 class Solution:
     def _recreateTWithIsomorphicMap(self, isomorphicMap, s):
         recreateT = ''
